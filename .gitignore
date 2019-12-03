@@ -225,3 +225,6 @@ Thumbs.db
 
 # config file
 config.py
+
+# png files
+*.png
