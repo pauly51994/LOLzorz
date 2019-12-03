@@ -228,3 +228,6 @@ config.py
 
 # png files
 *.png
+
+# csv files
+*.csv
