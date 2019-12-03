@@ -12,3 +12,4 @@ kaggle.com
 - 161 features (including dummy variables)
 
 Which side tends to win more?
+![](win_team.png)
