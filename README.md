@@ -13,3 +13,6 @@ kaggle.com
 
 Which side tends to win more?
 ![](win_team.png)
+
+Feature Importances
+![](feature_importance.png)
